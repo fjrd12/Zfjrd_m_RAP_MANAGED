@@ -1,0 +1,5 @@
+CLASS zcl_bp_i_bookingsupl__m DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF z_i_travel__m.
+ENDCLASS.
+
+CLASS zcl_bp_i_bookingsupl__m IMPLEMENTATION.
+ENDCLASS.
